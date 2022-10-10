@@ -1,0 +1,116 @@
+City,Cuisines,average_cost_of_2_based_on_cuisines
+Bangalore,Italian,2000
+Bangalore,Asian,1800
+Bangalore,Modern Indian,1500
+Bangalore,European,1350
+Bangalore,Continental,1263
+Bangalore,North Indian,1033
+Bangalore,Fast Food,900
+Bangalore,Bakery,800
+Bangalore,American,800
+Chandigarh,Italian,2200
+Chandigarh,American,1700
+Chandigarh,Japanese,1600
+Chandigarh,Continental,1400
+Chandigarh,North Indian,1010
+Chandigarh,Mexican,1000
+Chandigarh,Mughlai,800
+Chandigarh,Bakery,650
+Chandigarh,Cafe,650
+Chandigarh,Desserts,600
+Chandigarh,Fast Food,475
+Chennai,Mexican,1700
+Chennai,North Indian,1161
+Chennai,Continental,1125
+Chennai,European,1000
+Chennai,South Indian,1000
+Chennai,Italian,925
+Chennai,Biryani,900
+Chennai,Cafe,775
+Goa,Fast Food,1533
+Goa,Seafood,1433
+Goa,Continental,1233
+Goa,North Indian,1200
+Goa,Goan,925
+Goa,Cafe,800
+Goa,Italian,800
+Guwahati,North Indian,1517
+Guwahati,Continental,860
+Guwahati,Chinese,750
+Guwahati,Cafe,593
+Guwahati,Asian,500
+Hyderabad,Mediterranean,2000
+Hyderabad,Cafe,1800
+Hyderabad,Mexican,1800
+Hyderabad,European,1500
+Hyderabad,Seafood,1500
+Hyderabad,Mughlai,1500
+Hyderabad,Continental,1400
+Hyderabad,Hyderabadi,1400
+Hyderabad,North Indian,1200
+Hyderabad,Italian,1200
+Hyderabad,Bakery,600
+Hyderabad,Desserts,500
+Jaipur,Chinese,2500
+Jaipur,North Indian,1613
+Jaipur,Rajasthani,1600
+Jaipur,Italian,1567
+Jaipur,Modern Indian,1500
+Jaipur,Continental,1075
+Jaipur,Cafe,858
+Kolkata,European,1900
+Kolkata,American,1800
+Kolkata,North Indian,1483
+Kolkata,Asian,1400
+Kolkata,Italian,1200
+Kolkata,Continental,1188
+Kolkata,Bengali,1000
+Kolkata,Cafe,1000
+Kolkata,Chinese,950
+Kolkata,Seafood,800
+Kolkata,Biryani,800
+Lucknow,North Indian,1333
+Lucknow,Mediterranean,1300
+Lucknow,European,1000
+Lucknow,Continental,1000
+Lucknow,Italian,1000
+Lucknow,Cafe,606
+Lucknow,Mughlai,350
+Lucknow,Desserts,200
+Mumbai,Italian,1500
+Mumbai,Modern Indian,1500
+Mumbai,North Indian,1250
+Mumbai,Street Food,1200
+Mumbai,Continental,1100
+Mumbai,Fast Food,1033
+Mumbai,Asian,1000
+Mumbai,Cafe,1000
+Mumbai,Healthy Food,850
+Mumbai,Bakery,700
+Mumbai,American,500
+Patna,North Indian,933
+Patna,Chinese,925
+Patna,Continental,600
+Patna,Biryani,500
+Patna,American,500
+Patna,Fast Food,500
+Patna,South Indian,300
+Pune,Mexican,1800
+Pune,Continental,1667
+Pune,Modern Indian,1500
+Pune,North Indian,1486
+Pune,European,1250
+Pune,Fast Food,1000
+Pune,Italian,900
+Pune,Charcoal Grill,900
+Pune,Cafe,850
+Surat,Modern Indian,1500
+Surat,Italian,1175
+Surat,North Indian,867
+Surat,Chinese,825
+Surat,Fast Food,800
+Surat,Lebanese,650
+Surat,Cafe,575
+Surat,Gujarati,550
+Surat,South Indian,375
+Surat,Desserts,250
